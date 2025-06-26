@@ -7,5 +7,3 @@ async function connectToMongoDB(url) {
 module.exports = {
   connectToMongoDB,
 };
-
-//RzmnhwAEH5TzYgsJ
