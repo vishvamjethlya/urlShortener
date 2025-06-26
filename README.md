@@ -1,2 +1,2 @@
 # urlShortener
-URL Shortening through Express.js
+Developed a secure URL shortener web application that allows only registered users to generate and manage shortened URLs. Integrated user authentication using JSON Web Tokens (JWT) and cookie-based session handling to ensure secure login and access control. Implemented role-based authorization to restrict URL creation to authenticated users while granting admins access to view analytics for all URLs. Built a real-time analytics system to track click activity and store visit history for each shortened link. The platform provides detailed usage insights and enforces access restrictions based on user roles.
